@@ -1,0 +1,17 @@
+{
+  "name": "racerbot-version1",
+  "version": "1.0.0",
+  "description": "Autonomous Racer Robot documentation and interactive 3D website",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "keywords": [
+    "autonomous-robot",
+    "arduino",
+    "obstacle-avoidance",
+    "model-viewer",
+    "stem"
+  ],
+  "author": "Mohd Zeeshan",
+  "license": "MIT"
+}
