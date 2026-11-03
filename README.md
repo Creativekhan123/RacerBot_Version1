@@ -96,6 +96,7 @@ This project is pre-configured and optimized for 1-click hosting on **[Vercel](h
 | **Robot Chassis** | 2WD laser-cut acrylic base | 1 | Structural skeleton holding all modules and caster wheel |
 | **Battery Pack** | 11.1V – 12V Li-ion / 3S pack | 1 | Provides high-current power for motors and Arduino |
 | **Jumper Wires** | DuPont Male-to-Female & M-M | ~20 | Signal and power interconnects between boards and sensors |
+| **Hex Coupling** | 6x18mm Brass Wheel Shaft Connector with Set Screws | 3 pcs | Secures motor drive shaft firmly to wheel hub without slipping |
 
 ---
 
@@ -136,6 +137,18 @@ This project is pre-configured and optimized for 1-click hosting on **[Vercel](h
       <img src="jumper_wires.png" width="300" /><br/>
       <strong>DuPont Jumper Wires</strong><br/>
       <em>Color-Coded Solderless Interconnects</em>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="hex_coupling.jpg" width="300" /><br/>
+      <strong>6x18mm Hex Coupling (3 pcs)</strong><br/>
+      <em>Metal Motor Connector with Set Screws</em>
+    </td>
+    <td align="center" width="50%">
+      <img src="battery.png" width="300" /><br/>
+      <strong>3S Li-ion / LiPo Battery Pack</strong><br/>
+      <em>High-Discharge Power Source</em>
     </td>
   </tr>
 </table>
