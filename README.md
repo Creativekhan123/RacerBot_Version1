@@ -91,7 +91,7 @@ This project is pre-configured and optimized for 1-click hosting on **[Vercel](h
 | **Arduino UNO** | ATmega328P, 5V, 16 MHz | 1 | Central controller executing sensor logic and motor commands |
 | **Motor Driver Shield** | Cytron 2-Channel H-Bridge | 1 | High-current interface driving the dual DC motors safely |
 | **DC Gear Motors** | JGB37-520, 12V, 960 RPM | 2 | Heavy-duty all-metal geared motors providing drive torque |
-| **Rubber Wheels** | Direct-fit treaded tyres | 2 | High-traction drive wheels attached to motor shafts |
+| **85mm Smart Car Wheels** | 85mm Diameter, 38mm Width, Spiked Tread, Blue Rim | 2 | High-traction off-road drive wheels attached to motor shaft via hex coupler |
 | **Ultrasonic Sensors** | HC-SR04 (40 kHz sound) | 3 | 3-way distance measurement (Left, Center, Right) |
 | **Robot Chassis** | 2WD laser-cut acrylic base | 1 | Structural skeleton holding all modules and caster wheel |
 | **Battery Pack** | 11.1V – 12V Li-ion / 3S pack | 1 | Provides high-current power for motors and Arduino |
@@ -122,9 +122,9 @@ This project is pre-configured and optimized for 1-click hosting on **[Vercel](h
       <em>12V High-Torque 960 RPM Geared Motors</em>
     </td>
     <td align="center" width="50%">
-      <img src="wheels.png" width="300" /><br/>
-      <strong>High-Traction Rubber Wheels</strong><br/>
-      <em>Anti-Slip Treaded Drive Wheels</em>
+      <img src="wheels.jpg" width="300" /><br/>
+      <strong>85mm Large Robot Smart Car Wheels</strong><br/>
+      <em>High-Traction 38mm Spiked Off-Road Wheels (Surface Blue)</em>
     </td>
   </tr>
   <tr>
@@ -255,7 +255,7 @@ The full, tested Arduino sketch is located at:
 ## 🔨 Assembly & Setup Steps
 
 1. **Prepare Chassis**: Unpack the acrylic base and identify mounting slots for motors, Arduino, and sensors.
-2. **Mount Motors & Wheels**: Secure the two JGB37-520 motors onto chassis brackets using screws. Press rubber wheels onto the motor D-shafts.
+2. **Mount Motors & Wheels**: Secure the two JGB37-520 motors onto chassis brackets using screws. Connect the 85mm smart car wheels onto the motor shafts using the 6x18mm hex couplings and tighten set screws.
 3. **Mount Arduino & Shield**: Stack the Cytron motor driver shield firmly onto the Arduino UNO headers. Fasten the stack to the chassis.
 4. **Mount 3 Ultrasonic Sensors**: Fix one sensor at Left, one at Center, and one at Right facing horizontally forward.
 5. **Connect Sensor Wiring**: Connect VCC&rarr;5V, GND&rarr;GND, and TRIG/ECHO lines to pins A0 through A5 as specified in the wiring table.
