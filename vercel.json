@@ -55,6 +55,23 @@
       ]
     },
     {
+      "source": "/(.*)\\.(stl|STL)",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "model/stl"
+        },
+        {
+          "key": "Access-Control-Allow-Origin",
+          "value": "*"
+        },
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, immutable"
+        }
+      ]
+    },
+    {
       "source": "/(.*)\\.(jpg|jpeg|png|webp|svg|ico)",
       "headers": [
         {
@@ -74,3 +91,4 @@
     }
   ]
 }
+
