@@ -97,7 +97,7 @@ This project is pre-configured and optimized for 1-click hosting on **[Vercel](h
 | **Battery Pack** | 11.1V – 12V Li-ion / 3S pack | 1 | Provides high-current power for motors and Arduino |
 | **Jumper Wires** | DuPont Male-to-Female & M-M | ~20 | Signal and power interconnects between boards and sensors |
 | **Hex Coupling** | 6x18mm Brass Wheel Shaft Connector with Set Screws | 3 pcs | Secures motor drive shaft firmly to wheel hub without slipping |
-| **Steel Smooth Rod** | 4mm Diameter Precision Steel Axle Shaft | 1 | Rigid axle shaft for support wheels and chassis alignment |
+| **Steel Smooth Rod 4mm** | Rustproof Steel Smooth Rod 4mm OD 150mm (0.15 mtr) Long | 1 | Precision linear axle shaft for robot idle wheels & structural alignment |
 
 ---
 
@@ -150,6 +150,18 @@ This project is pre-configured and optimized for 1-click hosting on **[Vercel](h
       <img src="battery.png" width="300" /><br/>
       <strong>3S Li-ion / LiPo Battery Pack</strong><br/>
       <em>High-Discharge Power Source</em>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="steel_smooth_rod.jpg" width="300" /><br/>
+      <strong>Steel Smooth Rod 4mm (150mm)</strong><br/>
+      <em>Rustproof Precision Linear Steel Shaft</em>
+    </td>
+    <td align="center" width="50%">
+      <img src="Double_sided_tape.png" width="300" /><br/>
+      <strong>Double-Sided Tape</strong><br/>
+      <em>Component Mounting &middot; Anti-Vibration</em>
     </td>
   </tr>
 </table>
