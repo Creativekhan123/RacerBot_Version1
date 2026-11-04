@@ -97,6 +97,7 @@ This project is pre-configured and optimized for 1-click hosting on **[Vercel](h
 | **Battery Pack** | 11.1V – 12V Li-ion / 3S pack | 1 | Provides high-current power for motors and Arduino |
 | **Jumper Wires** | DuPont Male-to-Female & M-M | ~20 | Signal and power interconnects between boards and sensors |
 | **Hex Coupling** | 6x18mm Brass Wheel Shaft Connector with Set Screws | 3 pcs | Secures motor drive shaft firmly to wheel hub without slipping |
+| **Steel Smooth Rod** | 4mm Diameter Precision Steel Axle Shaft | 1 | Rigid axle shaft for support wheels and chassis alignment |
 
 ---
 
